@@ -1,0 +1,17 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "A module for checking whether numbers are prime.",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "Arvin Camilon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
